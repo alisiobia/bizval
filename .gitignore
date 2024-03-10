@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Directory for any compiled output
+/dist
